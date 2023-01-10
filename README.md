@@ -1,10 +1,4 @@
 # Cartoonify-an-Image
-
-<p align="center">
-    <img src="https://repository-images.githubusercontent.com/400706498/2b71af19-fc0c-4041-80f6-ad9640b645d8" width="700">
-</p>
-
-
 # Steps to develop Image Cartoonifier
 
 <b>Beginning with image transformations:</b>
@@ -111,10 +105,4 @@ We have successfully developed Image Cartoonifier with OpenCV in Python. This is
 
 ## Source Code:
     
-[Here is the link to access the source code](https://github.com/akshatprogrammer/Cartoonify-an-Image/blob/main/main.py)
-
-# Connect With Me
-<img src ="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" width="50"> : [https://www.linkedin.com/in/akshatjaingeu/](https://www.linkedin.com/in/akshatjaingeu/)<br/>
-<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/2560px-Logo_Gmail_%282015-2020%29.svg.png" width="50"> : [akshat.kodia@gmail.com ](akshat.kodia@gmail.com)<br/>
-<img src ="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-1.png" width="50"> : [www.twitter.com/akki_aj89](www.twitter.com/akki_aj89)<br/>
-<img src ="https://toppng.com/uploads/preview/file-svg-world-wide-web-website-logo-11563356036uvwy5cvxhx.png" width="50"> : [https://akshatprogrammer.github.io/portfolio/](https://akshatprogrammer.github.io/portfolio/)
+[Here is the link to access the source code](https://github.com/adrenex/Cartoonifying-an-Image/blob/main/Cartoonfying_Image.pyw)
